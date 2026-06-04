@@ -1,0 +1,6 @@
+{
+  "name": "Aethera Premium Wellness",
+  "description": "An immersive, editorial five-page therapeutic wellness sanctuary app featuring custom breathing portals, holistic lifestyle score calculators, custom treatment booking engines, and calm soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
